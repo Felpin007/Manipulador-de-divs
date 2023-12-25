@@ -1,5 +1,5 @@
 # Manipulador de Divs
-
+## README gerado pela mesma IA usada nos projetos ([PHIND](https://phind.com)).
 Este projeto é uma aplicação web que permite aos usuários criar e manipular elementos div na página.
 
 
