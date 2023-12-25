@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação web que permite aos usuários criar e manipular elementos div na página.
 
+![](divs.png "Animação com Neve")
+
 ## Funcionalidades
 
 - **Número de Divs**: Permite ao usuário definir o número de divs que serão criadas na página.
